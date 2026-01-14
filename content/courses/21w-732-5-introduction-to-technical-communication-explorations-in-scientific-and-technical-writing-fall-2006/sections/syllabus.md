@@ -63,9 +63,9 @@ Plagiarism
 
 Using someone else's language and/or ideas without proper attribution is academically dishonest. As members of this class and the larger scholarly community you are expected to abide by the norms of academic honesty. While a good deal of collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work, written specifically for this class. Plagiarism can result in withdrawal from the course with a grade of F, suspension or expulsion from the Institute.
 
-The booklet {{% resource_link "29170d90-bb18-4134-ba57-3bebe3f4bcf0" "Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students" %}} explains these issues in detail, and you are responsible for understanding its contents. We will work on citing sources in class and discuss ways to acknowledge them properly. When in doubt, consult with me.
+The booklet [Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students](http://web.mit.edu/academicintegrity/) explains these issues in detail, and you are responsible for understanding its contents. We will work on citing sources in class and discuss ways to acknowledge them properly. When in doubt, consult with me.
 
-Additional information on plagiarism can be found via the {{% resource_link "7e2bfde2-d1be-4fad-a4ad-4514bf4f17e4" "MIT Writing Center" %}} Web link.
+Additional information on plagiarism can be found via the [MIT Writing Center](http://web.mit.edu/writing/Citation/plagiarism.html) Web link.
 
 Grades
 ------

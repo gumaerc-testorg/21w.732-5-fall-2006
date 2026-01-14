@@ -12,11 +12,11 @@ title: Related Resources
 uid: ad7ce4ac-efe6-afb2-9e6f-4c3e286c260c
 ---
 
-{{% resource_link "c3a0ade3-01e0-4b4a-aca0-aa5378c27426" "TechComm Web" %}}  
+[TechComm Web](http://bcs.bedfordstmartins.com/webpub/english/techcomm9e/revised_isds/ch01/1.html)  
 This is the companion Web site to the required text for this course, _Technical Communication_ by Mike Markel.
 
-{{% resource_link "7691c4d5-b1a9-47e3-bb11-11ed4f85f32e" "The Mayfield Handbook of Technical and Scientific Writing" %}}
+[The Mayfield Handbook of Technical and Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/home.htm)
 
-{{% resource_link "a0249eef-7d56-40d5-80c9-82b91aaca90f" "Purdue University Online Writing Lab (OWL)" %}}
+[Purdue University Online Writing Lab (OWL)](http://owl.english.purdue.edu/owl/)
 
-{{% resource_link "b61c2326-896c-4c20-be14-83370ade6c7f" "Writing: Style/Usage Manuals" %}}
+[Writing: Style/Usage Manuals](http://libguides.mit.edu/content.php?pid=80743&sid=598619)
